@@ -771,7 +771,7 @@ exe "hi! javaScript"        .s:fmt_none .s:fg_yellow .s:bg_none
 " ---------------------------------------------------------------------
 exe "hi! perlHereDoc"    . s:fg_base1  .s:bg_back   .s:fmt_none
 exe "hi! perlVarPlain"   . s:fg_yellow .s:bg_back   .s:fmt_none
-exe "hi! perlStatementFileDesc". s:fg_cyan.s:bg_back.s:fmt_none
+exe "hi! perlStatementFileDesc". s:fg_green.s:bg_back.s:fmt_none
 
 "}}}
 " tex highlighting "{{{
